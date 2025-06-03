@@ -7,92 +7,92 @@ Welcome to my collection of machine learning projects, showcasing 15 predictive 
 1. **[Rock vs Mine Prediction](./rock-vs-mine-prediction)**  
    - Classifies sonar signals as rock or mine (83% accuracy).  
    - Tech: Logistic Regression, Scikit-learn.  
-   - [View Project](./rock-vs-mine-prediction) | [Open in Colab]([https://colab.research.google.com/drive/your-colab-link](https://colab.research.google.com/drive/1SrGD6tBd3K_6Nuo4cG4I7UfMkA8kzaQU)
+   - [View Project](./rock-vs-mine-prediction) | [Open in Colab](https://colab.research.google.com/drive/1SrGD6tBd3K_6Nuo4cG4I7UfMkA8kzaQU)
 
 2. **[Diabetic Prediction](./diabetic-prediction)**  
    - Predicts diabetes risk (79% accuracy).  
    - Tech: Decision Tree, Scikit-learn.  
-   - [View Project](./diabetic-prediction) | [Open in Colab]([https://colab.research.google.com/drive/your-colab-link](https://colab.research.google.com/drive/1UcefIQWqcr9VT1GXBHFIeuK8w_yOCB4I)
+   - [View Project](./diabetic-prediction) | [Open in Colab](https://colab.research.google.com/drive/1UcefIQWqcr9VT1GXBHFIeuK8w_yOCB4I)
 
 3. **[Boston House Prediction](./boston-house-prediction)**  
    - Predicts house prices in Boston (85% accuracy).  
    - Tech: Random Forest, Scikit-learn.  
-   - [View Project](./boston-house-prediction) | [Open in Colab]([https://colab.research.google.com/drive/your-colab-link](https://colab.research.google.com/drive/1Lf7DrBKEFmOboKXtYqVzqM7Ya7MszRVM)
+   - [View Project](./boston-house-prediction) | [Open in Colab](https://colab.research.google.com/drive/1Lf7DrBKEFmOboKXtYqVzqM7Ya7MszRVM)
 
 4. **[Fake News Predictor](./fake-news-predictor)**  
    - Detects fake news articles (88% accuracy).  
    - Tech: Naive Bayes, Scikit-learn.  
-   - [View Project](./fake-news-predictor) | [Open in Colab]([https://colab.research.google.com/drive/your-colab-link](https://colab.research.google.com/drive/1UqGJDLCmFo2gsuN5W3EAgwzg8y393MBa)
+   - [View Project](./fake-news-predictor) | [Open in Colab](https://colab.research.google.com/drive/1UqGJDLCmFo2gsuN5W3EAgwzg8y393MBa)
 
 5. **[Loan System Prediction System](./loan-system-prediction-system)**  
    - Predicts loan approval (82% accuracy).  
    - Tech: SVM, Scikit-learn.  
-   - [View Project](./loan-system-prediction-system) | [Open in Colab]([https://colab.research.google.com/drive/your-colab-link)](https://colab.research.google.com/drive/1dtRQhbivUerq9jG2RSQ3dHOztWAcxPpR)
+   - [View Project](./loan-system-prediction-system) | [Open in Colab](https://colab.research.google.com/drive/1dtRQhbivUerq9jG2RSQ3dHOztWAcxPpR)
 
 6. **[Wine Quality Prediction](./wine-quality-prediction)**  
    - Predicts wine quality (76% accuracy).  
    - Tech: Random Forest, Scikit-learn.  
-   - [View Project](./wine-quality-prediction) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+   - [View Project](./wine-quality-prediction) | [Open in Colab](https://colab.research.google.com/drive/1l6h7k3UtaAu3Dn6s1QHtrY6Cd7pVNtjP)
 
 7. **[Car Price Prediction](./car-price-prediction)**  
    - Predicts car prices (84% accuracy).  
    - Tech: Linear Regression, Scikit-learn.  
-   - [View Project](./car-price-prediction) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+   - [View Project](./car-price-prediction) | [Open in Colab](https://colab.research.google.com/drive/1UAUJd1HiwRqEV-FNXjMAF7XcW-KK4rrd)
 
 8. **[Gold Price Prediction](./gold-price-prediction)**  
    - Predicts gold prices (81% accuracy).  
    - Tech: Gradient Boosting, Scikit-learn.  
-   - [View Project](./gold-price-prediction) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+   - [View Project](./gold-price-prediction) | [Open in Colab](https://colab.research.google.com/drive/1d4DbSe00K4S7cdvWG29euRXZvrANGuCV)
 
 9. **[Heart Disease Prediction](./heart-disease-prediction)**  
    - Predicts heart disease risk (85% accuracy).  
    - Tech: Logistic Regression, Scikit-learn.  
-   - [View Project](./heart-disease-prediction) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+   - [View Project](./heart-disease-prediction) | [Open in Colab](https://colab.research.google.com/drive/1irzp9vqkX6LymHiOUR-VveM7Cya2LBfo)
 
 10. **[Credit Card Prediction](./credit-card-prediction)**  
     - Predicts credit card approval (80% accuracy).  
     - Tech: Decision Tree, Scikit-learn.  
-    - [View Project](./credit-card-prediction) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+    - [View Project](./credit-card-prediction) | [Open in Colab](https://colab.research.google.com/drive/1eFHcm0i2TAXjrLNUw_vMyEyj7UcIFDHM)
 
 11. **[Medical Insurance Cost Prediction](./medical-insurance-cost-prediction)**  
     - Predicts medical insurance costs (82% accuracy).  
     - Tech: Linear Regression, Scikit-learn.  
-    - [View Project](./medical-insurance-cost-prediction) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+    - [View Project](./medical-insurance-cost-prediction) | [Open in Colab](https://colab.research.google.com/drive/1hrOSV2FhwtAfclQCAQIpjsv0ssZb1e4h)
 
 12. **[Big Mart Sales Prediction](./big-mart-sales-prediction)**  
     - Predicts sales for Big Mart stores (78% accuracy).  
     - Tech: XGBoost, Scikit-learn.  
-    - [View Project](./big-mart-sales-prediction) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+    - [View Project](./big-mart-sales-prediction) | [Open in Colab](https://colab.research.google.com/drive/1vTFtEqRVqV84MCLLT28S86WHBp3p0nzS)
 
 13. **[Customer Segmentation](./customer-segmentation)**  
     - Segments customers for marketing (K-means clustering).  
     - Tech: K-means, Scikit-learn.  
-    - [View Project](./customer-segmentation) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+    - [View Project](./customer-segmentation) | [Open in Colab](https://colab.research.google.com/drive/1kEJBwJbgZzzGMgqtc8ubIlMyTigvQGmj)
 
 14. **[Parkinson’s Disease Detection](./parkinsons-disease-detection)**  
     - Detects Parkinson’s disease (87% accuracy).  
     - Tech: SVM, Scikit-learn.  
-    - [View Project](./parkinsons-disease-detection) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+    - [View Project](./parkinsons-disease-detection) | [Open in Colab](https://colab.research.google.com/drive/1B7tYiOnoGDkIZxYZsnWLUnx7ZRY4C2af)
 
 15. **[Titanic Survival Prediction](./titanic-survival-prediction)**  
     - Predicts survival on the Titanic (80% accuracy).  
     - Tech: Random Forest, Scikit-learn.  
-    - [View Project](./titanic-survival-prediction) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+    - [View Project](./titanic-survival-prediction) | [Open in Colab](https://colab.research.google.com/drive/1g-pKtXj3Plt0vxK4yn-mf0MBRAcBWUbB)
 
 16. **[Calories Burnt Prediction](./calories-burnt-prediction)**  
     - Predicts calories burnt (80% accuracy).  
     - Tech: Linear Regression, Scikit-learn.  
-    - [View Project](./calories-burnt-prediction) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+    - [View Project](./calories-burnt-prediction) | [Open in Colab](https://colab.research.google.com/drive/12nTt9h9pPUzeqBISBulnQL2hgsGTyPD-)
 
 17. **[Spam Mail Prediction](./spam-mail-prediction)**  
     - Detects spam emails (90% accuracy).  
     - Tech: Naive Bayes, Scikit-learn.  
-    - [View Project](./spam-mail-prediction) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+    - [View Project](./spam-mail-prediction) | [Open in Colab](https://colab.research.google.com/drive/1hfQENdioVho05T3RLksl0939WiNo1s3l)
 
 18. **[Movie Recommendation System](./movie-recommendation-system)**  
     - Recommends movies using collaborative filtering.  
     - Tech: Surprise, Pandas.  
-    - [View Project](./movie-recommendation-system) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+    - [View Project](./movie-recommendation-system) | [Open in Colab](https://colab.research.google.com/drive/1gYTYICl8XX6L6xcNzJFfhl1_P0FtAheL)
 ## About Me
 Second-year Computer Science student specializing in ML engineering and MERN stack development. 
 
