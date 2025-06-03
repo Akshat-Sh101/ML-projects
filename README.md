@@ -7,27 +7,27 @@ Welcome to my collection of machine learning projects, showcasing 15 predictive 
 1. **[Rock vs Mine Prediction](./rock-vs-mine-prediction)**  
    - Classifies sonar signals as rock or mine (83% accuracy).  
    - Tech: Logistic Regression, Scikit-learn.  
-   - [View Project](./rock-vs-mine-prediction) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+   - [View Project](./rock-vs-mine-prediction) | [Open in Colab]([https://colab.research.google.com/drive/your-colab-link](https://colab.research.google.com/drive/1SrGD6tBd3K_6Nuo4cG4I7UfMkA8kzaQU)
 
 2. **[Diabetic Prediction](./diabetic-prediction)**  
    - Predicts diabetes risk (79% accuracy).  
    - Tech: Decision Tree, Scikit-learn.  
-   - [View Project](./diabetic-prediction) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+   - [View Project](./diabetic-prediction) | [Open in Colab]([https://colab.research.google.com/drive/your-colab-link](https://colab.research.google.com/drive/1UcefIQWqcr9VT1GXBHFIeuK8w_yOCB4I)
 
 3. **[Boston House Prediction](./boston-house-prediction)**  
    - Predicts house prices in Boston (85% accuracy).  
    - Tech: Random Forest, Scikit-learn.  
-   - [View Project](./boston-house-prediction) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+   - [View Project](./boston-house-prediction) | [Open in Colab]([https://colab.research.google.com/drive/your-colab-link](https://colab.research.google.com/drive/1Lf7DrBKEFmOboKXtYqVzqM7Ya7MszRVM)
 
 4. **[Fake News Predictor](./fake-news-predictor)**  
    - Detects fake news articles (88% accuracy).  
    - Tech: Naive Bayes, Scikit-learn.  
-   - [View Project](./fake-news-predictor) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+   - [View Project](./fake-news-predictor) | [Open in Colab]([https://colab.research.google.com/drive/your-colab-link](https://colab.research.google.com/drive/1UqGJDLCmFo2gsuN5W3EAgwzg8y393MBa)
 
 5. **[Loan System Prediction System](./loan-system-prediction-system)**  
    - Predicts loan approval (82% accuracy).  
    - Tech: SVM, Scikit-learn.  
-   - [View Project](./loan-system-prediction-system) | [Open in Colab](https://colab.research.google.com/drive/your-colab-link)
+   - [View Project](./loan-system-prediction-system) | [Open in Colab]([https://colab.research.google.com/drive/your-colab-link)](https://colab.research.google.com/drive/1dtRQhbivUerq9jG2RSQ3dHOztWAcxPpR)
 
 6. **[Wine Quality Prediction](./wine-quality-prediction)**  
    - Predicts wine quality (76% accuracy).  
